@@ -23,13 +23,13 @@ The application is designed to help users organise items they need when preparin
 ## 4. Screenshots
 
 ### Main Screen
-Insert your main![Screenshot_20261102_154057.png](../../OneDrive/Desktop/Screenshot_20261102_154057.png) screen screenshot here.
+![Main Screen](Screenshot_20261102_154057.png)
 
-### Add to Packing List![Screenshot_20261102_154235.png](../../OneDrive/Desktop/Screenshot_20261102_154235.png)
-Insert your add-item screen screenshot here.
+### Add to Packing List
+![Add to Packing List](add-packing-list.png)
 
-### View Packing List![Screenshot_20261102_154253.png](../../OneDrive/Desktop/Screenshot_20261102_154253.png)
-Insert your packing list screenshot here.
+### View Packing List
+![View Packing List](view-packing-list.png)
 
 ## 5. Developer
 
