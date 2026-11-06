@@ -33,6 +33,6 @@ Insert your packing list screenshot here.
 
 ## 5. Developer
 
-Name: [Tracy]
+Name: [Tracy Chilembo]
 
 Project: Travel Packing List Manager
